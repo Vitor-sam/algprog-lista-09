@@ -1,0 +1,39 @@
+Pessoa
+Atributos: nome, idade, altura
+Métodos: andar, falar, comer
+
+Animal
+Atributos: espécie, cor, idade
+Métodos: correr, dormir, comer
+
+Carro
+Atributos: marca, cor, modelo
+Métodos: acelerar, frear, buzinar
+
+Celular
+Atributos: marca, memória, bateria
+Métodos: ligar, desligar, fotografar
+
+Livro
+Atributos: título, autor, páginas
+Métodos: abrir, fechar, ler
+
+Bicicleta
+Atributos: cor, tamanho, peso
+Métodos: pedalar, frear, virar
+
+Televisão
+Atributos: marca, tamanho, volume
+Métodos: ligar, desligar, trocar canal
+
+Computador
+Atributos: memória, processador, sistema
+Métodos: ligar, desligar, salvar arquivos
+
+Avião
+Atributos: modelo, capacidade, velocidade
+Métodos: decolar, pousar, voar
+
+Casa
+Atributos: cor, endereço, quartos
+Métodos: abrir porta, fechar porta, iluminar
